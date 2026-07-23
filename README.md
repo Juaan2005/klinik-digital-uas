@@ -12,7 +12,8 @@
 
 | Login Screen | Home Screen | Feature Screen |
 |:---:|:---:|:---:|
-| | ![Login](screenshots/login.jpeg) | ![Home](screenshots/home.jpeg) | ![Feature](screenshots/feature.jpeg) |
+| ![Login](assets/screenshots/login.jpeg) | ![Home](assets/screenshots/home.jpeg) | ![Feature](assets/screenshots/feature.jpeg) |
+
 ---
 
 ## ✨ Fitur Utama
@@ -42,11 +43,12 @@
 ## 🚀 Cara Menjalankan
 
 ```bash
-git clone (https://github.com/Juaan2005/klinik-digital-uas)
+git clone https://github.com/Juaan2005/klinik-digital-uas
 cd klinik-digital-uas
 npm install
 npx expo start
 ```
+
 Scan QR Code dengan Expo Go di HP.
 
 ---
