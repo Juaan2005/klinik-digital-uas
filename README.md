@@ -55,13 +55,13 @@ Scan QR Code dengan Expo Go di HP.
 
 ## 📦 Download APK
 
-(https://expo.dev/accounts/juantambunan/projects/klinik-digital-uas/builds/d7d835b1-ea09-4e01-a174-5f7eba2cdead)
+[Download APK terbaru] (https://expo.dev/accounts/juantambunan/projects/klinik-digital-uas/builds/d7d835b1-ea09-4e01-a174-5f7eba2cdead)
 
 ---
 
 ## 🌐 Expo Snack
 
-[Buka di Expo Snack](LINK_EXPO_SNACK)
+[Buka di Expo Snack] (https://snack.expo.dev/@juantambunan/curious-green-french-fries)
 
 ---
 
