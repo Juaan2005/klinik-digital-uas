@@ -12,8 +12,7 @@
 
 | Login Screen | Home Screen | Feature Screen |
 |:---:|:---:|:---:|
-| ![Login](assets/screenshots/login.jpeg) | ![Home](assets/screenshots/home.jpeg) | ![Feature](assets/screenshots/feature.jpeg) |
-
+| | ![Login](screenshots/login.jpeg) | ![Home](screenshots/home.jpeg) | ![Feature](screenshots/feature.jpeg) |
 ---
 
 ## ✨ Fitur Utama
